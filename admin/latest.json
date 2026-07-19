@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "2.1",
-  "notes": "DoH update fetch (works with GitHub blocked in the hosts file), background install that survives closing the app, disabled/hidden apps stay in the list, Block Google app setting, and more.",
+  "notes": "DoH update fetch (works with GitHub blocked in the hosts file), background install that survives closing the app, disabled/hidden apps stay in the list, Block Google app setting, and more. (Minified build.)",
   "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v12/admin.apk",
-  "sha256": "feee84f86f0a5a8dbc33a3e1add75370040b0a6e78bd78202774e213086df306"
+  "sha256": "73a6a42892fbd5926d25ada8fc4dec9d1254c217f6a2e9a5f2d7ea105aa695ce"
 }
