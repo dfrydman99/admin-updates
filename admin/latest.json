@@ -1,7 +1,7 @@
 {
   "versionCode": 13,
   "versionName": "2.2",
-  "notes": "Minified build with DoH update fetch, background install, disabled/hidden apps in the list, Block Google app, and more.",
+  "notes": "Minified build (R8) with the WorkManager/Room + Firebase keep-rule fix. DoH update fetch, background install, disabled/hidden apps in the list, Block Google app, and more.",
   "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v13/admin.apk",
-  "sha256": "0173b734dba93c6d508ce1548c90fded77192ab8818728a110d3179d2fa10280"
+  "sha256": "edfb2dc2ff0e74583c65a35930ac575e079e12072ea03e1b948b4e0314f2f5f1"
 }
