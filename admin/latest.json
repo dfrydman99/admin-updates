@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "notes": "Base version.",
-  "apkUrl": "",
-  "sha256": ""
+  "versionCode": 11,
+  "versionName": "2.0",
+  "notes": "Compact search bar, app controls layout, per-app VPN off for our own apps, Block Google app setting, disable/hide reported correctly, clear history, and a lost-control alert.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v11/admin.apk",
+  "sha256": "7997212e6b33af5873697abcd7e7295da7ff84245410519e9740e7c64243e9b6"
 }
