@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "notes": "Compact search bar, app controls layout, per-app VPN off for our own apps, Block Google app setting, disable/hide reported correctly, clear history, and a lost-control alert.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v11/admin.apk",
-  "sha256": "7997212e6b33af5873697abcd7e7295da7ff84245410519e9740e7c64243e9b6"
+  "versionCode": 12,
+  "versionName": "2.1",
+  "notes": "DoH update fetch (works with GitHub blocked in the hosts file), background install that survives closing the app, disabled/hidden apps stay in the list, Block Google app setting, and more.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v12/admin.apk",
+  "sha256": "feee84f86f0a5a8dbc33a3e1add75370040b0a6e78bd78202774e213086df306"
 }
