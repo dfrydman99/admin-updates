@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "notes": "Two-row app controls, removed the 'system' badge for space, plus the R8 crash fix. Minified.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v14/admin.apk",
-  "sha256": "b177431edb7242a0f862d7afd67051ee3847551590033dce31aec082f651395e"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "notes": "Instant update check (no CDN lag), Reset all policies, VPN off-by-default for Mashgiach + Messages, new app filters, and precise app-state events.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v15/admin.apk",
+  "sha256": "90d754d6c1ab1a51f109f477b89999fd2ff9077aced27499ed15e3ed1c01d321"
 }
