@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "notes": "Minified build (R8) with the WorkManager/Room + Firebase keep-rule fix. DoH update fetch, background install, disabled/hidden apps in the list, Block Google app, and more.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v13/admin.apk",
-  "sha256": "edfb2dc2ff0e74583c65a35930ac575e079e12072ea03e1b948b4e0314f2f5f1"
+  "versionCode": 14,
+  "versionName": "2.3",
+  "notes": "Two-row app controls, removed the 'system' badge for space, plus the R8 crash fix. Minified.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v14/admin.apk",
+  "sha256": "b177431edb7242a0f862d7afd67051ee3847551590033dce31aec082f651395e"
 }
