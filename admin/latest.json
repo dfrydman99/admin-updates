@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "notes": "Instant update check (no CDN lag), Reset all policies, VPN off-by-default for Mashgiach + Messages, new app filters, and precise app-state events.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v15/admin.apk",
-  "sha256": "90d754d6c1ab1a51f109f477b89999fd2ff9077aced27499ed15e3ed1c01d321"
+  "versionCode": 16,
+  "versionName": "2.5",
+  "notes": "Scrollable reset dialog; reset preserves pre-approved apps and approval state; VPN monitoring text.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v16/admin.apk",
+  "sha256": "5f9ce8b4a26c5a38df94f86d7991731107b54d7a59b951a595b1b933e13b73d9"
 }
