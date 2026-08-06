@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "notes": "Scrollable reset dialog; reset preserves pre-approved apps and approval state; VPN monitoring text.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v16/admin.apk",
-  "sha256": "5f9ce8b4a26c5a38df94f86d7991731107b54d7a59b951a595b1b933e13b73d9"
+  "versionCode": 17,
+  "versionName": "2.6",
+  "notes": "App-approval alerts now name the app (e.g. 'WhatsApp app request') and the device, and tapping one opens that device's approval page. Pushes show each device's custom name. New: a daily ~9:30 AM check warns if a device missed its morning heartbeat.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v17/admin.apk",
+  "sha256": "59c46499ee90d6c2fc7f34bf80ca48afc93cb27fac55c6bcd4a6a591a694a464"
 }
