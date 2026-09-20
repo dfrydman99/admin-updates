@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "notes": "App-approval alerts now name the app (e.g. 'WhatsApp app request') and the device, and tapping one opens that device's approval page. Pushes show each device's custom name. New: a daily ~9:30 AM check warns if a device missed its morning heartbeat.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v17/admin.apk",
-  "sha256": "59c46499ee90d6c2fc7f34bf80ca48afc93cb27fac55c6bcd4a6a591a694a464"
+  "versionCode": 18,
+  "versionName": "2.7",
+  "notes": "Settings: new 'Block hotspot & tethering' toggle (blocks Wi-Fi/USB/Bluetooth and turns it back off if re-enabled). Devices screen refresh now pings all devices. Apps tab restyled to match. Reads the new split app inventory. Lighter data use.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v18/admin.apk",
+  "sha256": "da3328a310a01da344e103ef4d52ffc24535ac956dba5666f7ff28613d1ad42c"
 }
