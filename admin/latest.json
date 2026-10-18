@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "notes": "Settings: new 'Block hotspot & tethering' toggle (blocks Wi-Fi/USB/Bluetooth and turns it back off if re-enabled). Devices screen refresh now pings all devices. Apps tab restyled to match. Reads the new split app inventory. Lighter data use.",
-  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v18/admin.apk",
-  "sha256": "da3328a310a01da344e103ef4d52ffc24535ac956dba5666f7ff28613d1ad42c"
+  "versionCode": 19,
+  "versionName": "2.8",
+  "notes": "App searches match app name (case-insensitive); app name shown first everywhere. Pre-approved tab: search installed apps and tap + to pre-approve. Approving a request asks whether to also pre-approve it.",
+  "apkUrl": "https://github.com/dfrydman99/admin-updates/releases/download/admin-v19/admin.apk",
+  "sha256": "6fe82a83968252b4f53081dbcaf78d7480fa74bedc86be4afa445d7b480d7711"
 }
